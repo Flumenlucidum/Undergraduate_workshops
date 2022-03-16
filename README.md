@@ -10,5 +10,6 @@ Visualization with R and QGIS
 
 <div>
           <p align="left">
-          <img width = "600" height = "350" src = "https://github.com/Flumenlucidum/Undergraduate_workshops/blob/main/seoul.jpg">
+          <img width = "400" height = "350" src = "https://github.com/Flumenlucidum/Undergraduate_workshops/blob/master/seoul.jpg">
+         <img width = "400" height = "350" src = "https://github.com/Flumenlucidum/Undergraduate_workshops/blob/master/seoul2.jpg">
 </div>
