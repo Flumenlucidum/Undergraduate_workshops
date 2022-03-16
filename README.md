@@ -7,3 +7,8 @@ Bigdata Analysis and Application - Korea University Innovation Center for Engine
 # Contest by Seoul Metropolitan Government Big Data Campus
 Finding best location of sound level meter in Seoul metropolitan area 
 Visualization with R and QGIS
+
+<div>
+          <p align="left">
+          <img width = "600" height = "350" src = "https://github.com/Flumenlucidum/Undergraduate_workshops/blob/main/seoul.jpg">
+</div>
